@@ -2,42 +2,45 @@
 
 My first repository
 
-## My Favorite Series
+## My Favorite Movie
 
-**Title:** Your Favorite Series Here
+**Title:** All About Lily Chou-Chou
 
-*Genre:* Action / Drama / Comedy
+*Genre:* Drama / Coming-of-age
+
+*Director:* Shunji Iwai (2001)
 
 ### Why I Like It
 
-I like this series because of its **amazing story**, *great characters*, and ~~boring parts~~ exciting twists.
+I like this movie because of its **beautiful cinematography**, *emotional story*, and ~~boring~~ dreamy soundtrack. It shows how music can be a safe place for people who feel alone.
 
 ### Top 3 Characters
 
-1. Character One
-2. Character Two
-3. Character Three
+1. Yuichi Hasumi
+2. Shusuke Hoshino
+3. Shiori Tsuda
 
 ### Things I Love About It
 
-- Great soundtrack
-- Awesome plot
-- Memorable scenes
+- The music of the fictional singer Lily Chou-Chou
+- The dreamy, artistic visuals
+- The deep and emotional story about teenage life
 
-> "Put a favorite quote from the series here."
+> A beautiful and painful movie about growing up.
 
-### Where to Watch
+### Learn More
 
-[Watch on Netflix](https://www.netflix.com)
+[All About Lily Chou-Chou on Wikipedia](https://en.wikipedia.org/wiki/All_About_Lily_Chou-Chou)
 
 ---
 
-### Rating
+### My Rating
 
-| Category | Score |
-|----------|-------|
-| Story    | 10/10 |
-| Acting   | 9/10  |
-| Overall  | 10/10 |
+| Category    | Score |
+|-------------|-------|
+| Story       | 10/10 |
+| Music       | 10/10 |
+| Cinematography | 10/10 |
+| Overall     | 10/10 |
 
-`Status: Completed`
+`Status: Favorite movie`
